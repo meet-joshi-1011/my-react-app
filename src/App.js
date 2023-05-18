@@ -3,13 +3,13 @@ function App() {
   const expense =[
     {
       id: 1,
-      title: 'Alien Ware',
+      title: 'Alien-Ware',
       amount: 999,
       date: new Date(2020,4,19) 
     },
     {
       id: 2,
-      title: 'Asus Rog 9',
+      title: 'Asus-Rog 9',
       amount: 888,
       date: new Date(2020,5,19) 
     },
